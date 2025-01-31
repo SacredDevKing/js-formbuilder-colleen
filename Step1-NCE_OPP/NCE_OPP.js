@@ -193,6 +193,10 @@ function joinValues() {
                 label: `Are you planning to use the CGM application on your phone as your reader/receiver?: ${PLACEHOLDER}`
             },
             {
+                id: "115774225",
+                label: `Are you planning to use the Pump application on your phone as your reader/receiver?: ${PLACEHOLDER}`
+            },
+            {
                 id: "111427447",
                 label: `Reviewed 90 Day physician visits with patient:: ${PLACEHOLDER}`
             },

@@ -1,0 +1,5 @@
+If Field ID: 114802688 answer is ‘Left Message’. This should be the note that is populated in the PIMS Note: 112558767
+Welcome Call (DBU Only) Did not reach the patient. Call Result Left Message - If pt. calls back and has any questions or problems with their new system, please send email to CGM.Welcome.Call@ccsmed.com with best call back time and phone number. We are available from 9am to 6:30 pm EST Monday through Friday.
+Here is the URL with the .js: https://www.myccsmed.com/123FormBuilder/PDO.js
+Form URL: https://form.123formbuilder.com/6643285/welcome-call-info
+CS Email: patty.volpe@ccsmed.com
