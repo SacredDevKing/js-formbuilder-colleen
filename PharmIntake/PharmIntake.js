@@ -364,6 +364,8 @@ function joinTValues() {
         `Other: ${placeHolder}`,
         `Based on insurance and products, the patients Expected patient responsibility is: ${placeHolder}`,
         `Patient has out of pocket expenses and understands their credit card will be charged at the time of shipment: ${placeHolder}`,
+        `${placeHolder}`,
+        `Patient authorizes CCS Medical to bill their credit card on file up to: ${placeHolder}`,
         `Advised Patient of Next Steps: ${placeHolder}`,
         `Advised the patient their order will ship: ${placeHolder}`,
         `Advised patient: ${placeHolder}`,
@@ -419,7 +421,8 @@ function joinTValues() {
         116295591, 116295592, 116295593, 116295595, 116295596, 116295597, 
         116295599, 116295600, 116295602, 115911298, 115911299, 115911300, 
         115911301, 115911302, 115911303, 115911304, 115911305, 115911306, 
-        115946628, 115946639, 115911307, 115911308, 115917749, 
+        115946628, 115946639, 116836403, 116836413, 115911307, 115911308, 
+        115917749, 
       ];
 
       idsToNoteLines(ids, labels);
