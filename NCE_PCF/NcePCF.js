@@ -251,7 +251,7 @@ function joinTValues() {
   
       //splitting by row for clarity
   
-      let joinedArr = combinedString.join(", ");
+      let joinedArr = combinedString.join(" ... ");
       console.log(joinedArr);
       loader.engine.document
         .getElementById(116832631)

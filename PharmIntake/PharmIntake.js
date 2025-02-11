@@ -427,18 +427,6 @@ function joinTValues() {
 
       idsToNoteLines(ids, labels);
     };
-    // const convertLineLegacy = () => {
-    //   let labels = [
-    //     // `Call Type: ${placeHolder}`,
-    //     // `Call Type: ${placeHolder}`,
-
-    //     // `Authorized Person Name: ${placeHolder}`,
-    //     `${placeHolder}`, // Contact Question
-
-    //     // `What is the date of your last visit with the physician treating your diabetes?: ${placeHolder}`,
-    //     // `Would you like us to share relevant medical information with this person in case of a medical emergency: ${placeHolder}`, duplicate found
-    //   ];
-    // };
 
     try {
       convertFirstLine();
